@@ -1,2 +1,2 @@
 print("Hello Git!")
-print("Aquesta es la branca x")
+print("This is branch Y")
